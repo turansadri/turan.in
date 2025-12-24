@@ -1,0 +1,20 @@
+{
+  "name": "turan.in",
+  "version": "1.0.0",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pixi.js": "^8.14.3"
+  },
+  "type": "module",
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
